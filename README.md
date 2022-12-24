@@ -6,3 +6,9 @@ is an innovative way to provide natural human-computer interaction, ranging from
 movements during the gesture. The system sends these images to computer vision software, which tracks them and identifies the gesture. Many previously developed models were available and could only be identified from a static background. Since sign language is gestured fluently and interactively like any other spoken language, sign language recognizers must be able to recognize continuous sign language vocabulary in real-time.
 
 The purpose of this project is to present a real-time hand gesture recognition system based on American Sign Language (ASL) recognition in natural environments. It does not require uniform clothing and can work reliably in a messy, non-static background. The system captures gestural images of ASL from a cluttered background using a webcam. A pre-trained model, SqueezeNet, is used for image classification, and using this model, hand gestures of alphabets and letters are identified and displayed in a real-time interface.
+
+Example of Hand Gesture Recognition
+
+
+
+![alt text](https://github.com/JoanneAnto/Hand-Gesture-Recognition/blob/main/sample1.png?raw=true)
